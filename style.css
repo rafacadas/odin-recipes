@@ -27,3 +27,7 @@
 .button:hover {
     background-color: #c11212;
 }
+
+h1, h2, h3, p, button {
+    font-family: 'arial', sans-serif; color: #333;
+}
